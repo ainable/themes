@@ -22,8 +22,8 @@
 --offline-color: #808080;
 --main-font: 'Whitney';
 --code-font: 'Consolas';
---text-normal: #dcdddeff;
---text-muted: #72767dff;
+--text-normal: #FFFFFFFF;
+--text-muted: #ABB2BCFF;
 --channels-width: 220px;
 --members-width: 240px;
 --background-shading: 15%;
