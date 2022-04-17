@@ -8,7 +8,7 @@
 * @website https://betterdiscord.app/theme/ClearVision
 */
 @import url("https://clearvision.gitlab.io/v6/main.css");
-@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+/*@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');*/
 :root {
 --main-color: #2780e6;
 --hover-color: #1e63b3;
