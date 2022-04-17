@@ -4,4 +4,8 @@ https://github.com/GoldenLys/WizardUI
 
 gawr gura
 https://github.com/ClearVision/ClearVision-v6
+
+Micchon Shikimori
+https://github.com/DiscordStyles/FrostedGlass
+
 all credits go to links above, if they want me to remove my edits hosted here i will
