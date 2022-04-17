@@ -8,7 +8,7 @@
 * @website https://betterdiscord.app/theme/ClearVision
 */
 @import url("https://clearvision.gitlab.io/v6/main.css");
-/*@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');*/
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 :root {
 --main-color: #2780e6;
 --hover-color: #1e63b3;
@@ -84,12 +84,12 @@
 --bd-blue: #2780e6;
 --bd-blue-hover: #1e63b3;
 --bd-blue-active: #1e63b3;
---rs-small-spacing: 2px;
---rs-medium-spacing: 3px;
---rs-large-spacing: 4px;
---rs-small-width: 2px;
---rs-medium-width: 3px;
---rs-large-width: 4px;
+--rs-small-spacing: 1px;
+--rs-medium-spacing: 2px;
+--rs-large-spacing: 3px;
+--rs-small-width: 1px;
+--rs-medium-width: 2px;
+--rs-large-width: 3px;
 --rs-avatar-shape: 50%;
 --rs-online-color: #00A2FFFF;
 --rs-idle-color: #FAEA33FF;
